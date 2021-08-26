@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{DZsq:function(n,e,t){"use strict";t.r(e);var o=t("q1tI"),l=t.n(o);e.default=function(){return l.a.createElement("div",null,"hello world")}}}]);
+//# sourceMappingURL=component---src-pages-about-the-book-js-74d4e184d305e3ea2483.js.map

@@ -1,0 +1,20 @@
+.policy-content {
+    background: #545766;
+    margin-top: 28vh;
+    background-size: auto, 256px 256px;
+    background-position: center, center;
+    background-repeat: no-repeat, repeat;
+    z-index: 2;
+    width: 100%;
+    border-radius: 10px;
+    opacity: 0.9;
+    height: auto !important;
+
+    div{
+        padding: 5em;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+}
