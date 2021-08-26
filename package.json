@@ -32,7 +32,7 @@
     "interweave": "^12.5.0",
     "mdbreact": "^4.27.0",
     "node-gyp": "^8.2.0",
-    "node-sass": "^6.0.1",
+    "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
     "pure-react-carousel": "^1.27.4",
     "react": "^16.12.0",
@@ -40,6 +40,7 @@
     "react-helmet": "^6.1.0",
     "react-images": "^1.1.7",
     "react-slick": "^0.27.11",
+    "sass-loader": "^12.1.0",
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
