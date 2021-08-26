@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('C:/Users/Bruce/Desktop/Projects/EdwinAlanSalhany/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/Bruce/Desktop/New folder/EdwinAlanSalhany/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/Bruce/Desktop/Projects/EdwinAlanSalhany/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('C:/Users/Bruce/Desktop/New folder/EdwinAlanSalhany/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"static/logo/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"0f07bfad4ae80f9d446df7acf68a377d"},
     },{
-      plugin: require('C:/Users/Bruce/Desktop/Projects/EdwinAlanSalhany/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('C:/Users/Bruce/Desktop/New folder/EdwinAlanSalhany/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
